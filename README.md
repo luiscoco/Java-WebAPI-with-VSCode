@@ -66,4 +66,9 @@ public class SimpleHttpServer {
 </project>
 ```
 
-## 4. 
+## 4. Run the application
+
+![image](https://github.com/luiscoco/Java-WebAPI-with-VSCode/assets/32194879/7eeab89a-a536-4c75-a655-8673cda1ae31)
+
+## 5. View the application output
+

@@ -1,4 +1,4 @@
-# How to create a Java WebAPI with VSCode
+# How to create a Java version 17 WebAPI with VSCode
 
 ## 1. Run VScode and create the project structure
 

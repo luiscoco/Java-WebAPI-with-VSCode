@@ -72,3 +72,8 @@ public class SimpleHttpServer {
 
 ## 5. View the application output
 
+![image](https://github.com/luiscoco/Java-WebAPI-with-VSCode/assets/32194879/eaf1918f-5a7e-4f96-a2a7-4cfaf7d85ed4)
+
+http://localhost:8000/api/hello
+
+![image](https://github.com/luiscoco/Java-WebAPI-with-VSCode/assets/32194879/1d434532-85c2-4152-9463-27d8b166c5e1)
